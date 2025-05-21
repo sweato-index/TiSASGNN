@@ -1,0 +1,5 @@
+Test Results:
+MRR: 0.6036
+NDCG@5: 0.6161, Recall@5: 0.7134
+NDCG@10: 0.6427, Recall@10: 0.7957
+NDCG@20: 0.6630, Recall@20: 0.8760
